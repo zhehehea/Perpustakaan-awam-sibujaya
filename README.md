@@ -1,0 +1,34 @@
+<html>
+<head></head>
+<body>
+  <style>
+  body {
+    background-image: url("Gambar2.jpg");
+  }
+</style>
+  <h1 style="color: white; text-align: center "><hr class="border: 3px solid black;">PERPUSTAKAAN AWAM SIBUJAYA</h1>
+  <h1 style="color: white; text-align: center;">Location:<br></h1>
+  <h2 style="color: white;">Perpustakaan Awam Sibujaya terletak di Jalan Sibujaya Selatan, 96000 Sibu, bersebelahan dengan Balai Polis Sibu Jaya. Perpustakaan dua tingkat ini menyediakan pelbagai bahan bacaan, kemudahan ICT, dan permainan rekreasi. </h2><br>
+    <h1 style="color: white; text-align: center ">Operating time </h1>
+<h1 style="color: white;">Isnin:10am-5pm</h1>
+<hr>
+<h1 style="color: white;">Selesa-Jumaat:9am-5pm</h1>
+<hr>
+<h1 style="color: white;">Sabtu-Ahad:9am-3pm</h1>
+<hr>
+<h1 style="color: white;">Cuti umum:Tutup</h1>
+<hr>
+<a href="https://www.google.com/search?q=perpustakaan+awam+sibujaya&oq=perp&gs_lcrp=EgZjaHJvbWUqCAgDEEUYJxg7MggIABBFGCcYOzIGCAEQRRg7MgYIAhBFGDkyCAgDEEUYJxg7MgYIBBBFGDsyEwgFEC4YrwEYxwEYugIYkgMYgAQyEwgGEC4YrwEYxwEYugIYkgMYgAQyCggHEAAYsQMYgAQyBggIEEUYPDIGCAkQRRg9MgoIChAAGMkDGIAEMg0ICxAuGK8BGMcBGIAEMhMIDBAuGIMBGMcBGLEDGNEDGIAEMgcIDRAuGIAEMgcIDhAAGIAE0gEIMjU4OWowajeoAhSwAgHxBa9KaF_ZsvdU&client=ms-android-xiaomi-terr1-rso2&sourceid=chrome-mobile&ie=UTF-8#ebo=0" target="_blank">
+ <h1 style="color: white;"> 📍 PERGI KE LOKASI PERPUSTAKAAN AWAM SIBUJAYA</h1>
+<h2 style="color: white;">📌 Majlis Perbandaran Sibu (pengurusan perpustakaan awam)
+📱 Talian umum: +60 84-333 411 
+smc.gov.my
+📱 Talian maklum balas: +60 19-817 9297 atau +60 84-310 808 �
+smc.gov.my
+📠 Faks: +60 84-320 240 
+smc.gov.my
+📧 Email: smc@smc.gov.my 
+smc.gov.my</h2>
+</a>
+</body>
+</html>
